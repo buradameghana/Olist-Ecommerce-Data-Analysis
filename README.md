@@ -48,6 +48,10 @@ This project explores e-commerce data to understand sales performance, delivery 
 
 Developed a four-page interactive Power BI dashboard to explore e-commerce performance and support data-driven business understanding.
 
+## Dashboard Preview
+
+[Click here to view the complete Power BI Dashboard (PDF)](./olist%20e-commerce.pdf)
+
 ## Author
 
 **Meghana**  
